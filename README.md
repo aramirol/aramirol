@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   <h3>
-    Hi there 👋 Welcome to my Github page !✨
+    Welcome to my Github page !
   </h3>
 </p>
 
