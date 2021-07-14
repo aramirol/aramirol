@@ -15,9 +15,11 @@ You can click the Preview link to take a look at your changes.
   </div>
 </p>
 
+<!---
 <p align="left">
   <div>
     <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramirol&theme=dark&hide_border=true&layout=compact&card_width=445&icon_color=79ff97" />
   </div>
 </p>
+--->
 
